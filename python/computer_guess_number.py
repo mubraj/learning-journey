@@ -26,5 +26,3 @@ def guessing(ra):
       guessing(ra)
 
 guessing(ra)
-#test commit
-#ok
